@@ -1,0 +1,21 @@
+title: "Jorge Sanhueza"
+description: Full-stack developer | React, TypeScript, NestJS | Remote OK
+baseurl: "" # leave empty for username.github.io
+url: "https://jorge-sanhueza.github.io"
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+
+# Custom variables
+email: "jrg.sanhueza@gmail.com"
+github_username: "jorge-sanhueza"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
