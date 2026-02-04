@@ -1,6 +1,6 @@
 # Jorge Sanhueza
 
-**Software Engineer specializing in process automation and interface development**
+**Full-Stack Developer** building impactful software products from concept to deployment
 
 📍 Santiago, Chile (UTC-3) | 🌐 Remote | 📧 jrg.sanhueza@gmail.com
 
@@ -11,7 +11,7 @@
 
 ## About Me
 
-Software Engineer with 4+ years experience specializing in process automation and interface development. Experienced in creating and modernizing web, mobile, and desktop applications. I contribute to projects from initial planning and design through implementation, working within teams to deliver scalable, effective solutions.
+Full-Stack Developer with 4+ years building software products end-to-end. I modernize and create web, mobile, and desktop applications, working collaboratively from planning through deployment to deliver scalable, user-focused solutions.
 
 ## Technologies
 
@@ -23,7 +23,7 @@ Software Engineer with 4+ years experience specializing in process automation an
 
 ### Transportation Management System
 
-Led development as main contributor, designing robust solution with NestJS backend (Role-Based Access Control) and React frontend with real-time tracking. Implemented AI documentation agent using Ollama models.
+Led development as main contributor, designing robust solution with NestJS backend and React frontend with real-time tracking. Implemented AI documentation agent using Ollama models.
 
 ### Website Migration & Modernization
 
