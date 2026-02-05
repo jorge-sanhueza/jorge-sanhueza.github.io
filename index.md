@@ -21,16 +21,48 @@ subtitle: Full-Stack Developer building impactful software products from concept
 
 ## Recent Projects
 
-#### Transportation Management System (TMS)
+#### Transportation Management System – Full-Stack Lead Developer
 
-Led development as main contributor, designing robust solution with NestJS backend (Role-Based Access Control) and React frontend with real-time tracking. Implemented AI documentation agent using Ollama models.
+_Technologies: NestJS, React, TypeScript, Vite, Zustand, TanStack Query, PostgreSQL, Docker_
 
-### Website Migration & Modernization
+- **Led development** as main contributor, designing a robust solution for transportation logistics with real-time order tracking and management
+- **Architected secure backend API** using NestJS with comprehensive **Role-Based Access Control (RBAC)** system for granular user permissions
+- **Built high-performance frontend** with React, Zustand for state management, and TanStack Query for efficient data fetching and caching
+- **Implemented AI documentation agent** using **Ollama** (gemma3 & embeddinggemma models) with Retrieval-Augmented Generation for intelligent project documentation access
+- **Managed full system integration** ensuring seamless data flow between frontend and backend components
 
-Architected migration from WordPress to React SPA using Next.js, improving performance and user experience. Monitored post-launch metrics providing data-driven insights for marketing campaigns.
+#### Website Migration & Modernization – Full-Stack Architect
+
+_Technologies: Next.js, React, TypeScript, WordPress API, Tailwind CSS_
+
+- **Architected and executed migration** from WordPress to a modern **React SPA using Next.js**, improving performance metrics and user experience
+- **Designed scalable data models** according to client requirements, ensuring system integrity and future maintainability
+- **Led end-to-end implementation** with adherence to client specifications and successful production launch
+- **Provided data-driven insights** through post-launch monitoring of traffic and sales metrics, contributing to marketing campaign optimization
+- **Improved site performance** through code optimization and modern frontend practices
+
+#### Digital Catalog & E-commerce Upgrade – Frontend Contributor
+
+_Technologies: React, JavaScript, CSS3, Analytics Integration_
+
+- **Contributed to website and digital catalog upgrade** project with interactive design implementation
+- **Assisted in developing new user interfaces** that significantly increased user engagement metrics
+- **Participated in post-launch analysis** of traffic data, user behavior, and conversion metrics
+- **Collaborated on A/B testing implementations** to evaluate design effectiveness
 
 ---
 
-**Open to remote opportunities in full-stack or mobile development roles.**
+### Technical Skills
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Vite, Zustand, TanStack Query, HTML5, CSS3, Tailwind CSS, Alpine.js  
+**Backend:** NestJS, Node.js, PHP, Laravel, REST APIs
+**Databases:** PostgreSQL, MySQL, mongoDB  
+**DevOps & Tools:** Git, Docker, UNIX
+**AI/ML:** Ollama, RAG Systems, AI Documentation Agents  
+**Methodologies:** Agile Development, CI/CD, Responsive Design, UI/UX Principles
+
+---
+
+**Open to remote opportunities in full-stack, frontend, or mobile development roles.**
 
 Email: [jrg.sanhueza@gmail.com](mailto:jrg.sanhueza@gmail.com)
