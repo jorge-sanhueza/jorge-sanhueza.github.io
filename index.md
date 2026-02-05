@@ -55,7 +55,7 @@ _Technologies: React, JavaScript, CSS3, Analytics Integration_
 ### Technical Skills
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Vite, Zustand, TanStack Query, HTML5, CSS3, Tailwind CSS, Alpine.js  
-**Backend:** NestJS, Node.js, PHP, Laravel, REST APIs
+**Backend:** NestJS, Node.js, PHP, Laravel, REST APIs  
 **Databases:** PostgreSQL, MySQL, mongoDB  
 **DevOps & Tools:** Git, Docker, UNIX
 **AI/ML:** Ollama, RAG Systems, AI Documentation Agents  
