@@ -1,0 +1,33 @@
+title: "Jorge Sanhueza"
+description: "Full-stack developer | React, TypeScript, NestJS | Remote"
+remote_theme: daattali/beautiful-jekyll
+url: "https://jorge-sanhueza.github.io"
+
+# ===== NAVIGATION =====
+show_navbar: true
+navbar-links:
+  About: "about"
+  Download CV: "/Jorge-Sanhueza-CV.pdf"
+
+# ===== SOCIAL =====
+github-username: jorge-sanhueza
+email: jrg.sanhueza@gmail.com
+
+# ===== APPEARANCE =====
+# Theme color (blue, green, red, pink, purple, muted)
+theme-color: "blue"
+
+# Show avatar in sidebar? (need to add image to assets/img/avatar.jpg)
+show-avatar: false
+
+# ===== BUILD SETTINGS =====
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/bundle/ruby/3.0.0/gems/jekyll-3.10.0/lib/site_template/

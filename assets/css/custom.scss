@@ -1,0 +1,46 @@
+/* ===== CUSTOM ICON STYLES ===== */
+
+.contact-info i {
+  color: #0366d6;
+  margin-right: 8px;
+  width: 20px;
+  text-align: center;
+}
+
+.cv-download i {
+  color: #dc3545;
+}
+
+.contact-info a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.contact-info {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+/* Small enhancements*/
+.contact-info p {
+  margin-bottom: 0.5rem;
+}
+
+/* spacing improvements */
+p {
+  margin-bottom: 1.4em;
+}
+
+/* Mobile adjustment for contact info */
+@media (max-width: 768px) {
+  .contact-info {
+    padding: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+}
